@@ -1,0 +1,11 @@
+# Membuat operasi boolean
+p = True
+q = False
+print("p AND q =", P dan q) -> untuk operasi AND
+p AND q = False
+print("p OR q =", P or q) -> untuk operasi OR
+p OR q = True
+print("NOT P =", not P) -> untuk operasi NOT
+NOT p = False
+print("p XOR q =", P ^ q) -> untuk operasi XOR
+p XOR q = True

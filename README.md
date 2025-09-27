@@ -1,1 +1,0 @@
-# Logika-dan-Operasi-Boolean

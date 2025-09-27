@@ -1,0 +1,11 @@
+# Memberi nilai pada variabel
+a = 7
+b = 5
+# Membuat output dari operasi dasar pada python
+print(a+b) -> untuk operasi penjumlahan
+print(a-b) -> untuk operasi pengurangan
+print(a*b) -> untuk operasi perkalian
+print(a/b) -> untuk operasi pembagian (hasilnya bisa berupa bilangan desimal)
+print(a//b) -> untuk operasi pembagian (hasil berupa bilangan bulat)
+print(a%b) -> untuk mencari hasil dari sisa pembagian
+print(a**b) -> untuk mencari hasil perpangkatan

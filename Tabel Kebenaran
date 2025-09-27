@@ -1,0 +1,19 @@
+# Membuat tabel kebenaran
+# Tabel kebenaran AND
+print("p =", True ", q =", True, "=> p AND q =", True and True)
+p = True , q = True => p AND q = True
+print("p =", True ", q =", False, "=> p AND q =", True and False)
+p = True , q = False => p AND q = False
+print("p =", False ", q =", True, "=> p AND q =", False and True)
+p = False , q = True => p AND q = False
+print("p =", False ", q =", False, "=> p AND q =", False and False)
+p = False , q = False => p AND q = False
+# Tabel kebenaran p v ~q
+print("p =", True, ", q =", True, ", not q=", not True, "=> p v ~q =", True or not True)
+p = True , q = True , not q = False => p v ~q = True
+print("p =", True, ", q =", False, ", not q=", not False, "=> p v ~q =", True or not False)
+p = True , q = False , not q = True => p v ~q = True
+print("p =", False, ", q =", True, ", not q=", not True, "=> p v ~q =", False or not True)
+p = False , q = True , not q = False => p v ~q = False
+print("p =", False, ", q =", False, ", not q=", not False, "=> p v ~q =", False or not False)
+p = False , q = False , not q = True => p v ~q = True

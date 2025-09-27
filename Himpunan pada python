@@ -1,0 +1,15 @@
+# Himpunan pada python
+A = {1, 2, 3, 4}
+B = {3, 4, 5, 6}
+print("A U B =", A | B) -> Union -> Semua elemen yang ada di A atau B
+A U B = {1, 2, 3, 4, 5, 6}
+print("A n B =", A & B) -> Intersection -> Elemen yang ada di A dan B
+A n B = {3, 4}
+print("A - B =", A - B) -> Difference -> Elemen yang ada di A namun tidak ada di B
+A - B = {1, 2}
+print("A O B =", A ^ B) -> Symmetric Difference -> Elemen yang ada di A atau B, namun bukan di keduanya
+A O B = {1, 2, 5, 6}
+# Himpunan Komplemen
+S = {1, 2, 3, 4, 5, 6}
+print("Komplemen A =", S - A)
+Komplemen A = {5,6}

@@ -1,0 +1,8 @@
+# Membuat variabel yang nilainya dapat di input
+nama = input("Masukkan nama: ")
+# Output untuk mengeluarkan nilai dari Variabel
+print(nama)
+# nama = input("Masukkan nama: ")
+Masukkan nama: Dwi Indarti
+Print("Halo", nama)
+Halo Dwi Indarti

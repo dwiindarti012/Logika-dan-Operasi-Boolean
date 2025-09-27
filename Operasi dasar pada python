@@ -8,4 +8,4 @@ print(a*b) -> untuk operasi perkalian
 print(a/b) -> untuk operasi pembagian (hasilnya bisa berupa bilangan desimal)
 print(a//b) -> untuk operasi pembagian (hasil berupa bilangan bulat)
 print(a%b) -> untuk mencari hasil dari sisa pembagian
-print(a**b) -> untuk mencari hasil perpangkatan
+print(a**b) -> untuk mencari hasil berpangkatan
